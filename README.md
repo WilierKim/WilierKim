@@ -84,6 +84,6 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="WilierKim" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WilierKim&show_icons=true&theme=gotham&locale=en" alt="WilierKim" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="WilierKim" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WilierKim&theme=gotham" alt="WilierKim" /></p>

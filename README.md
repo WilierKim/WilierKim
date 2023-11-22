@@ -14,7 +14,7 @@
 <h1 align="left">Hi 👋 This is WilierKim, a student developer </h1>
 <h3 align="left">I am a developer who is studying and developing at the same time</h3>
 
-- 👩‍💻 All of my projects are available at [https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)
+- 👩‍💻 All of my projects are available at [wilierkim.github.io)
 
 - 💬 Ask me about **react, vue.js and solidity**
 

@@ -76,7 +76,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <div>
-  <img src="https://img.shields.io/github/followers/dasom222g?style=social" alt="github followers" height="24" />
+  <img src="https://img.shields.io/github/followers/wilierkim?style=social" alt="github followers" height="24" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube subscribers" height="24" />
   <img src="https://img.shields.io/youtube/channel/views/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube views" height="24" />
 </div>
@@ -84,6 +84,6 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="WilierKim" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="dasom222g" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="WilierKim" /></p>

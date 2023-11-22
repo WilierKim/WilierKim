@@ -16,7 +16,7 @@
 
 - 👩‍💻 All of my projects are available at [https://wilierkim.github.io)
 
-- 💬 Ask me about **react, vue.js and solidity**
+- 🏫 Semyung Computer High School While in school**
 
 - 📫 How to reach me **kkm838822@gmail.com**
 

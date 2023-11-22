@@ -51,8 +51,6 @@
 
 <div>
   <img src="https://img.shields.io/github/followers/wilierkim?style=social" alt="github followers" height="24" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube subscribers" height="24" />
-  <img src="https://img.shields.io/youtube/channel/views/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube views" height="24" />
 </div>
 
 <h3 align="left">📈 my github stats</h3>

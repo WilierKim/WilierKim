@@ -5,7 +5,7 @@
 </a>
 <a href="[https://linkedin.com/in/김-규민-57574b27a](https://www.linkedin.com/in/%EA%B9%80-%EA%B7%9C%EB%AF%BC-57574b27a/)" target="_blank">
 </a>
-<a href="https://www.youtube.com/@chutzrit" target="_blank">
+<a href="https://www.youtube.com/@wilierkim" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 

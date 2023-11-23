@@ -62,6 +62,6 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WilierKim&show_icons=true&theme=shadow_red=en" alt="WilierKim" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WilierKim&show_icons=true&theme=shadow_red&Show=en" alt="WilierKim" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WilierKim&theme=gotham" alt="WilierKim" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WilierKim&theme=shadow_red" alt="WilierKim" /></p>

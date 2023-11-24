@@ -1,11 +1,11 @@
 ### About me
 
-<a href="[https://instagram.com/WilierKim](https://www.instagram.com/rbalsdlqslek)" target="_blank">
+<a href="[https://instagram.com/rbalsdlqslek](https://www.instagram.com/rbalsdlqslek)" target="_blank">
   <img align="left" alt="WilierKim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="[https://linkedin.com/in/김-규민-57574b27a](https://www.linkedin.com/in/%EA%B9%80-%EA%B7%9C%EB%AF%BC-57574b27a/)" target="_blank">
 </a>
-<a href="https://www.youtube.com/@wilierkim" target="_blank">
+<a href="https://www.youtube.com/@smc_archive" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 

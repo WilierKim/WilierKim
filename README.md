@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kkm838822@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="WilierKim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WilierKim&label=Profile%20views&color=0e75b6&style=flat" alt="WilierKim" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />

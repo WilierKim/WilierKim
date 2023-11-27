@@ -25,7 +25,7 @@
 <h3 align="left">languages and tools</h3>
 <br />
 <p align="left">
-  <a href="https://kotlinlang.org//" target="_blank" rel="noreferrer">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://uploads-ssl.webflow.com/5f68f829c76bdd365c61bcda/5fcedb477451307f4b822de2_kotlin-1-logo-png-transparent-p-800.png" alt="git" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

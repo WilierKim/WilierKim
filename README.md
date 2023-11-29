@@ -28,6 +28,9 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://uploads-ssl.webflow.com/5f68f829c76bdd365c61bcda/5fcedb477451307f4b822de2_kotlin-1-logo-png-transparent-p-800.png" alt="git" height="30"/>
   </a>
+  <a href="http://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="http://www.lua.org/images/lua30.gif" alt="git" height="30"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
   </a>
@@ -50,9 +53,6 @@
   </a>
   <a href="https://unity.com/kr" target="_blank" rel="noreferrer">
     <img src="https://velog.velcdn.com/images/zkzkshsh/post/c840bf53-24db-4b1f-b2e7-45d593642d31/image.jpg" alt="git" height="30"/>
-  </a>
-  <a href="http://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/553-5531453_how-to-write-your-first-lua-script-on.png" alt="git" height="30"/>
   </a>
 </p>
 <br />

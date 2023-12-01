@@ -13,7 +13,7 @@
 
 <h1 align="left">Hi 👋 This is WilierKim, a student developer </h1>
 <h3 align="left">I am a developer who is studying and developing at the same time</h3>
-<h3 align="This account only Writing about studying"</h3>
+<h3 align="left">"This account only Writing about studying"</h3>
 
 - 👩‍💻 All of my projects are available at [https://wilierkim.github.io)
 
